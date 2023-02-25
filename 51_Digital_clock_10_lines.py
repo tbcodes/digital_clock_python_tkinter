@@ -1,3 +1,7 @@
+# Created by Truzz Blogg
+# Youtube Video: https://youtu.be/PYWY8NuQJX0
+# 🤖 Udemy Course: https://www.udemy.com/course/python-para-el-mundo-real/?referralCode=59884E2A0EFE636C17D7
+
 import tkinter as tk
 from time import strftime
 
